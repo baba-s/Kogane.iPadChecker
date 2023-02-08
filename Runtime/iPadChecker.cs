@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿// ReSharper disable RedundantUsingDirective
+
+using UnityEngine;
 
 namespace Kogane
 {
